@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@loopback/boot": "^4.1.1"
+  }
+}
